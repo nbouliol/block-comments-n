@@ -1,0 +1,18 @@
+{
+  "name": "block-comments-n",
+  "main": "./lib/block-comments-n",
+  "version": "0.0.1",
+  "description": "Block comments '/* ... */'",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "block-comments-n:comment"
+  },
+  "repository": "https://github.com/atom/block-comments-n",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

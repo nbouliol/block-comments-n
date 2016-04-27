@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle block-comments-n",
+        "command": "block-comments-n:comment"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "block-comments-n",
+          "submenu": [
+            {
+              "label": "Comment",
+              "command": "block-comments-n:comment"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
