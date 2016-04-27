@@ -1,10 +1,9 @@
 {
   "name": "block-comments-n",
   "main": "./lib/block-comments-n",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Block comments ' ... '",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "block-comments-n:comment"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
